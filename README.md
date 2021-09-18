@@ -11,7 +11,7 @@
 - 📫 How to reach me **mail@clynt.de**
 
 - ⚡ Fun fact **I think i am cool 🚬**
-
+<h3 algin="left">Discord Presence</h3>
     [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/882166477157986384
                             )](https://discord.com/users/882166477157986384)
 
