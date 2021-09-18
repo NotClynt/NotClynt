@@ -12,9 +12,8 @@
 
 - ⚡ Fun fact **I think i am cool 🚬**
 
-    <a href="https://discord.com/users/882166477157986384">
-        <img height="256px" src="https://lanyard-profile-readme.vercel.app/api/882166477157986384" />
-     </a>
+    [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/882166477157986384
+                            )](https://discord.com/users/882166477157986384)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
