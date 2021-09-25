@@ -12,8 +12,7 @@
 
 - ⚡ Fun fact **I think i am cool 🚬**
 <h3 algin="left">Discord Presence</h3>
-    [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/882166477157986384
-                            )](https://discord.com/users/882166477157986384)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/882166477157986384)](https://discord.com/users/882166477157986384)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
