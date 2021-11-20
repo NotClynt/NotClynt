@@ -38,9 +38,10 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.twitter.com/clynt707'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://clynt.de/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/clynt707'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.twitter.com/clynt707'> <img width = '32px' align= 'center' src="https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png"/></a> 
+<a href = 'https://clynt.de/'> <img width = '32px' align= 'center' src="https://www.mtctutorials.com/wp-content/uploads/2019/04/world-wide-web-www.-png-icon-free.png"/></a> 
+<a href = 'https://www.github.com/clynt707'> <img width = '32px' align= 'center' src="https://pngimg.com/uploads/github/github_PNG83.png"/></a> 
+<a href = 'https://discord.gg/vUS2Uc5W9E'> <img width = '32px' align= 'center' src="https://logosmarken.com/wp-content/uploads/2020/12/Discord-Logo.png"/></a> 
 
 
 
