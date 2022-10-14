@@ -15,7 +15,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
-- 🔭 I’m currently working on [Authify](https://authify.biz) and [Virty](https://virty.xyz)
+- 🔭 I’m currently working on [Authify](https://authify.biz) and [Virty](https://virty.cc)
 
 
 - 🌱 I’m currently learning C++ 
